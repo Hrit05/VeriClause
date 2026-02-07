@@ -1,0 +1,1392 @@
+[
+  {
+    "clause_id": "IT-SEC-001",
+    "page": 3,
+    "text": "In accordance with Article 5, Section 6 of the Credit Union Bylaws, any Board Member who violates these policies shall be subject to removal."
+  },
+  {
+    "clause_id": "IT-SEC-002",
+    "page": 3,
+    "text": "Review and Acceptance The Board of Directors, Chief Operations Officer/COO, and IT staff shall review this comprehensive policy at least annually, making such revisions and amendments as deemed appropriate and indicating approval and the date thereof in the policy header."
+  },
+  {
+    "clause_id": "IT-SEC-003",
+    "page": 4,
+    "text": "Overview Data, electronic file content, information systems, and computer systems at PURPLESEC must be managed as valuable organization resources."
+  },
+  {
+    "clause_id": "IT-SEC-004",
+    "page": 5,
+    "text": "General Use and Ownership Access requests must be authorized and submitted from departmental supervisors for employees to gain access to computer systems."
+  },
+  {
+    "clause_id": "IT-SEC-005",
+    "page": 5,
+    "text": "Security and Proprietary Information All mobile and computing devices that connect to the internal network must comply with this policy and the following policies: \u2022 Policy 2: Account Management \u2022 Policy 3: Anti-Virus \u2022 Policy 4: PURPLESEC Owned Mobile Device Acceptable Use and Security \u2022 Policy 7: E-mail \u2022 Policy 12: Internet"
+  },
+  {
+    "clause_id": "IT-SEC-006",
+    "page": 6,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC \u2022 Policy 14: Safeguarding Member Information \u2022 Policy 16: Personal Device Acceptable Use and Security \u2022 Policy 17: Password \u2022 Policy 20: Cloud Computing \u2022 Policy 28: Wireless (Wi-Fi) Connectivity \u2022 Policy 29: Telecommuting System level and user level passwords must comply with the Password Policy."
+  },
+  {
+    "clause_id": "IT-SEC-007",
+    "page": 6,
+    "text": "Authorized users must not share their PURPLESEC login ID(s), account(s), passwords, Personal Identification Numbers (PIN), Security Tokens (i.e."
+  },
+  {
+    "clause_id": "IT-SEC-008",
+    "page": 6,
+    "text": "Providing access to another individual, either deliberately or through failure to secure its access, is prohibited."
+  },
+  {
+    "clause_id": "IT-SEC-009",
+    "page": 6,
+    "text": "All users must lockdown their PCs, laptops, and workstations by locking (control-alt- delete) when the host will be unattended for any amount of time."
+  },
+  {
+    "clause_id": "IT-SEC-010",
+    "page": 6,
+    "text": "Employees must log-off, or restart (but not shut down) their PC after their shift."
+  },
+  {
+    "clause_id": "IT-SEC-011",
+    "page": 6,
+    "text": "All proprietary information must be protected through legal or technical means."
+  },
+  {
+    "clause_id": "IT-SEC-012",
+    "page": 6,
+    "text": "All users must report any weaknesses in PURPLESEC computer security and any incidents of possible misuse or violation of this agreement to their immediate supervisor and/or the IT Department."
+  },
+  {
+    "clause_id": "IT-SEC-013",
+    "page": 6,
+    "text": "Users must not divulge dial-up or dial-back modem phone numbers to anyone without prior consent of the PURPLESEC IT Department."
+  },
+  {
+    "clause_id": "IT-SEC-014",
+    "page": 6,
+    "text": "Authorized users must use extreme caution when opening e-mail attachments received from unknown senders, which may contain viruses, e-mail bombs, or Trojan Horse codes."
+  },
+  {
+    "clause_id": "IT-SEC-015",
+    "page": 6,
+    "text": "Unacceptable Use Users must not intentionally access, create, store, or transmit material which PURPLESEC may deem to be offensive, indecent, or obscene."
+  },
+  {
+    "clause_id": "IT-SEC-016",
+    "page": 7,
+    "text": "System and Network Activities The following activities are prohibited by users, with no exceptions: \u2022 Violations of the rights of any person or company protected by copyright, trade secret, patent, or other intellectual property, or similar laws or regulations, including, but not limited to, the installation or distribution of \u201cpirated\u201d or other software products that are not appropriately licensed for use by PURPLESEC."
+  },
+  {
+    "clause_id": "IT-SEC-017",
+    "page": 7,
+    "text": "\u2022 Unauthorized copying of copyrighted material including, but not limited to, digitization and distribution from copyrighted sources, copyrighted music, and the installation of any copyrighted software for which PURPLESEC or the end user does not have an active license is prohibited."
+  },
+  {
+    "clause_id": "IT-SEC-018",
+    "page": 7,
+    "text": "Users must report unlicensed copies of installed software to IT."
+  },
+  {
+    "clause_id": "IT-SEC-019",
+    "page": 8,
+    "text": "For example, PURPLESEC users must not run spyware, adware, password cracking programs, packet sniffers, port scanners, or any other non- approved programs on PURPLESEC information systems."
+  },
+  {
+    "clause_id": "IT-SEC-020",
+    "page": 8,
+    "text": "Access to the Internet at home, from a PURPLESEC-owned computer, must adhere to all the same policies that apply to use from within PURPLESEC facilities."
+  },
+  {
+    "clause_id": "IT-SEC-021",
+    "page": 8,
+    "text": "Authorized users must not allow family members or other non-authorized users to access PURPLESEC computer systems."
+  },
+  {
+    "clause_id": "IT-SEC-022",
+    "page": 8,
+    "text": "PURPLESEC information systems must not be used for personal benefit."
+  },
+  {
+    "clause_id": "IT-SEC-023",
+    "page": 8,
+    "text": "\u2022 Incidental use must not result in direct costs to PURPLESEC without prior approval of management."
+  },
+  {
+    "clause_id": "IT-SEC-024",
+    "page": 8,
+    "text": "\u2022 Incidental use must not interfere with the normal performance of an employee\u2019s work duties."
+  },
+  {
+    "clause_id": "IT-SEC-025",
+    "page": 8,
+    "text": "\u2022 Storage of personal email messages, voice messages, files, and documents within PURPLESEC\u2019s information systems must be nominal."
+  },
+  {
+    "clause_id": "IT-SEC-026",
+    "page": 9,
+    "text": "New employee onboarding and training shall include this Policy 1 at a minimum, and in addition to all other applicable training and orientation material, and instructions for acceptance shall be provided at that time."
+  },
+  {
+    "clause_id": "IT-SEC-027",
+    "page": 11,
+    "text": "Policy Detail Accounts \u2022 All accounts created must have an associated written request and signed management approval that is appropriate for the PURPLESEC system or service."
+  },
+  {
+    "clause_id": "IT-SEC-028",
+    "page": 11,
+    "text": "\u2022 All accounts must be uniquely identifiable using the assigned username."
+  },
+  {
+    "clause_id": "IT-SEC-029",
+    "page": 11,
+    "text": "\u2022 All default passwords for accounts must be constructed in accordance with the PURPLESEC Password Policy."
+  },
+  {
+    "clause_id": "IT-SEC-030",
+    "page": 12,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC \u2022 All accounts must have a password expiration that complies with the PURPLESEC Password Policy."
+  },
+  {
+    "clause_id": "IT-SEC-031",
+    "page": 12,
+    "text": "\u2022 All accounts must be disabled immediately upon notification of any employee\u2019s termination."
+  },
+  {
+    "clause_id": "IT-SEC-032",
+    "page": 12,
+    "text": "Account Management The following items apply to System Administrators or other designated staff: \u2022 Information system user accounts are to be constructed so that they enforce the most restrictive set of rights/privileges or accesses required for the performance of tasks associated with an individual\u2019s account."
+  },
+  {
+    "clause_id": "IT-SEC-033",
+    "page": 12,
+    "text": "Further, to eliminate conflicts of interest, accounts shall be created so that no one user can authorize, perform, review, and audit a single transaction."
+  },
+  {
+    "clause_id": "IT-SEC-034",
+    "page": 12,
+    "text": "\u2022 All account modifications must have a documented process to modify a user account to accommodate situations such as name changes and permission changes."
+  },
+  {
+    "clause_id": "IT-SEC-035",
+    "page": 12,
+    "text": "\u2022 A list of accounts, for the systems they administer, must be provided when requested by authorized PURPLESEC management."
+  },
+  {
+    "clause_id": "IT-SEC-036",
+    "page": 14,
+    "text": "Overview Malware threats must be managed to minimize the amount of downtime realized by PURPLESEC\u2019s systems and prevent risk to critical systems and member data."
+  },
+  {
+    "clause_id": "IT-SEC-037",
+    "page": 14,
+    "text": "Policy Detail All computer devices connected to the PURPLESEC network and networked resources shall have anti-virus software installed and configured so that the virus definition files are current and are routinely and automatically updated."
+  },
+  {
+    "clause_id": "IT-SEC-038",
+    "page": 14,
+    "text": "The anti-virus software must be actively running on these devices."
+  },
+  {
+    "clause_id": "IT-SEC-039",
+    "page": 14,
+    "text": "The virus protection software must not be disabled or bypassed without IT approval."
+  },
+  {
+    "clause_id": "IT-SEC-040",
+    "page": 14,
+    "text": "The settings for the virus protection software must not be altered in a manner that will reduce the effectiveness of the software."
+  },
+  {
+    "clause_id": "IT-SEC-041",
+    "page": 14,
+    "text": "The automatic update frequency of the virus protection software must not be altered to reduce the frequency of updates."
+  },
+  {
+    "clause_id": "IT-SEC-042",
+    "page": 14,
+    "text": "Each file server, attached to the PURPLESEC network, must utilize PURPLESEC IT approved virus protection software and setup to detect and clean viruses that may infect PURPLESEC resources."
+  },
+  {
+    "clause_id": "IT-SEC-043",
+    "page": 14,
+    "text": "Each e-mail gateway must utilize PURPLESEC IT approved e-mail virus protection software."
+  },
+  {
+    "clause_id": "IT-SEC-044",
+    "page": 15,
+    "text": "Every virus that is not automatically cleaned by the virus protection software constitutes a security incident and must be reported to the Service Desk."
+  },
+  {
+    "clause_id": "IT-SEC-045",
+    "page": 16,
+    "text": "Key: Phrase used to encrypt or decrypt data Overview Acceptable use of PURPLESEC owned mobile devices must be managed to ensure that employees, Board of Directors, and related constituents who use mobile devices to access PURPLESEC\u2019s resources for business do so in a safe and secure manner."
+  },
+  {
+    "clause_id": "IT-SEC-046",
+    "page": 17,
+    "text": "Therefore, all users employing a PURPLESEC owned mobile device, connected to an unmanaged network outside of PURPLESEC\u2019s direct control, to backup, store, and otherwise access corporate data of any type must adhere to company-defined processes for doing so."
+  },
+  {
+    "clause_id": "IT-SEC-047",
+    "page": 17,
+    "text": "Based on this, the following rules must be observed: o Access control IT reserves the right to refuse, by physical and non-physical means, the ability to connect mobile devices to PURPLESEC and PURPLESEC-connected infrastructure."
+  },
+  {
+    "clause_id": "IT-SEC-048",
+    "page": 18,
+    "text": "Prior to initial use on the PURPLESEC network or related infrastructure, all mobile devices must be registered with IT."
+  },
+  {
+    "clause_id": "IT-SEC-049",
+    "page": 18,
+    "text": "Devices that are not on this list may not be connected to the PURPLESEC infrastructure."
+  },
+  {
+    "clause_id": "IT-SEC-050",
+    "page": 18,
+    "text": "End users who wish to connect such devices to non-corporate network infrastructure to gain access to PURPLESEC data must employ, for their devices and related infrastructure, a company-approved personal firewall and any other security measure deemed necessary by the IT Department."
+  },
+  {
+    "clause_id": "IT-SEC-051",
+    "page": 18,
+    "text": "The SSL or IPSec VPN portal Web address will be provided to users as required."
+  },
+  {
+    "clause_id": "IT-SEC-052",
+    "page": 18,
+    "text": "All mobile devices containing stored data owned by PURPLESEC must use an approved method of encryption to protect data."
+  },
+  {
+    "clause_id": "IT-SEC-053",
+    "page": 18,
+    "text": "Laptops must employ full drive encryption with an approved software encryption package."
+  },
+  {
+    "clause_id": "IT-SEC-054",
+    "page": 18,
+    "text": "All mobile devices must be protected by a strong password."
+  },
+  {
+    "clause_id": "IT-SEC-055",
+    "page": 18,
+    "text": "All keys used for encryption and decryption must meet complexity requirements described in PURPLESEC\u2019s Password Policy."
+  },
+  {
+    "clause_id": "IT-SEC-056",
+    "page": 18,
+    "text": "All users of corporate owned mobile devices must employ reasonable physical security measures."
+  },
+  {
+    "clause_id": "IT-SEC-057",
+    "page": 19,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC by PURPLESEC must adhere to the Personal Device Acceptable Use and Security Policy."
+  },
+  {
+    "clause_id": "IT-SEC-058",
+    "page": 19,
+    "text": "Any corporate owned mobile device that is being used to store PURPLESEC data must adhere to the authentication requirements of PURPLESEC\u2019s IT Department."
+  },
+  {
+    "clause_id": "IT-SEC-059",
+    "page": 19,
+    "text": "In addition, all hardware security configurations must be pre- approved by PURPLESEC\u2019s IT Department before any enterprise data-carrying device can be connected to it."
+  },
+  {
+    "clause_id": "IT-SEC-060",
+    "page": 19,
+    "text": "Employees, Board of Directors, and temporary staff will follow all enterprise- sanctioned data removal procedures to permanently erase company- specific data from such devices once their use is no longer required."
+  },
+  {
+    "clause_id": "IT-SEC-061",
+    "page": 19,
+    "text": "PURPLESEC shall employ remote wipe technology to remotely disable and delete any data stored on a PURPLESEC PDA or cell phone that is reported lost or stolen."
+  },
+  {
+    "clause_id": "IT-SEC-062",
+    "page": 19,
+    "text": "Usage of location-based services and mobile check-in services, which leverage device GPS capabilities to share real-time user location with external parties, is prohibited within the workplace."
+  },
+  {
+    "clause_id": "IT-SEC-063",
+    "page": 19,
+    "text": "A device\u2019s firmware/operating system must be up-to-date in order to prevent vulnerabilities and make the device more stable."
+  },
+  {
+    "clause_id": "IT-SEC-064",
+    "page": 20,
+    "text": "Before being granted a device and access to PURPLESEC resources, a mobile device user must understand and accept the terms and conditions of this policy."
+  },
+  {
+    "clause_id": "IT-SEC-065",
+    "page": 21,
+    "text": "The User of the PURPLESEC owned mobile device shall not remove sensitive information from the PURPLESEC network, attack PURPLESEC assets, or violate any of the security policies related to the subject matter of this Agreement."
+  },
+  {
+    "clause_id": "IT-SEC-066",
+    "page": 22,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC Policy 5: Clean Desk Overview PURPLESEC is committed to protecting the privacy of its employees and members and shall protect the confidentiality of nonpublic information consistent with state and federal laws."
+  },
+  {
+    "clause_id": "IT-SEC-067",
+    "page": 22,
+    "text": "Employees are also required to make a conscientious check of their surrounding work environment to ensure that there will be no loss of confidentiality to data media or documents."
+  },
+  {
+    "clause_id": "IT-SEC-068",
+    "page": 23,
+    "text": "Depending on the transactions, a more stringent authentication process may be required."
+  },
+  {
+    "clause_id": "IT-SEC-069",
+    "page": 24,
+    "text": "Information must be protected at both the sending and receiving ends of each transaction."
+  },
+  {
+    "clause_id": "IT-SEC-070",
+    "page": 24,
+    "text": "\u2022 Authentication After a secure connection is established, the initiating party must prove his/her identity prior to conducting the transaction."
+  },
+  {
+    "clause_id": "IT-SEC-071",
+    "page": 27,
+    "text": "Overview E-mail at PURPLESEC must be managed as valuable and mission critical resources."
+  },
+  {
+    "clause_id": "IT-SEC-072",
+    "page": 28,
+    "text": "Incoming email must be treated with the utmost care due to the inherent information security risks."
+  },
+  {
+    "clause_id": "IT-SEC-073",
+    "page": 28,
+    "text": "If the automatic scanning detects a security risk, IT must be immediately notified."
+  },
+  {
+    "clause_id": "IT-SEC-074",
+    "page": 28,
+    "text": "If email spoofing has occurred, IT must be immediately notified."
+  },
+  {
+    "clause_id": "IT-SEC-075",
+    "page": 28,
+    "text": "The following activities are prohibited by policy:"
+  },
+  {
+    "clause_id": "IT-SEC-076",
+    "page": 29,
+    "text": "\u2022 Sending unsolicited messages to large groups, except as required to conduct PURPLESEC business."
+  },
+  {
+    "clause_id": "IT-SEC-077",
+    "page": 29,
+    "text": "All confidential or sensitive PURPLESEC material transmitted via e-mail, outside PURPLESEC\u2019s network, must be encrypted."
+  },
+  {
+    "clause_id": "IT-SEC-078",
+    "page": 29,
+    "text": "Users must not e-mail passwords, social security numbers, account numbers, pin numbers, dates of birth, mother\u2019s maiden name, etc."
+  },
+  {
+    "clause_id": "IT-SEC-079",
+    "page": 30,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC E-mail users must not give the impression that they are representing, giving opinions, or otherwise making statements on behalf of PURPLESEC, unless appropriately authorized (explicitly or implicitly) to do so."
+  },
+  {
+    "clause_id": "IT-SEC-080",
+    "page": 30,
+    "text": "Users must not send, forward, or receive confidential or sensitive PURPLESEC information through non-PURPLESEC email accounts."
+  },
+  {
+    "clause_id": "IT-SEC-081",
+    "page": 30,
+    "text": "Users with non-PURPLESEC issued mobile devices must adhere to the Personal Device Acceptable Use and Security Policy for sending, forwarding, receiving, or storing confidential or sensitive PURPLESEC information."
+  },
+  {
+    "clause_id": "IT-SEC-082",
+    "page": 30,
+    "text": "Without prior management approval, incidental use must not result in direct costs to PURPLESEC."
+  },
+  {
+    "clause_id": "IT-SEC-083",
+    "page": 30,
+    "text": "Incidental use must not interfere with the normal performance of an employee\u2019s work duties."
+  },
+  {
+    "clause_id": "IT-SEC-084",
+    "page": 32,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC \u2022 Log traffic to and from the internal network \u2022 Provide robust authentication \u2022 Provide virtual private network (VPN) connectivity Policy Detail All network firewalls, installed and implemented, must conform to the current standards as determined by PURPLESEC\u2019s IT Department."
+  },
+  {
+    "clause_id": "IT-SEC-085",
+    "page": 32,
+    "text": "A change control process is required before any firewall rules are modified."
+  },
+  {
+    "clause_id": "IT-SEC-086",
+    "page": 32,
+    "text": "Prior to implementation, the Third Party Vendor and PURPLESEC network administrators are required to have the modifications approved by the Director of IT or the VP of IT."
+  },
+  {
+    "clause_id": "IT-SEC-087",
+    "page": 32,
+    "text": "All firewall implementations must adopt the position of \u201cleast privilege\u201d and deny all inbound traffic by default."
+  },
+  {
+    "clause_id": "IT-SEC-088",
+    "page": 33,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC Firewall rulesets and configurations require periodic review to ensure they afford the required levels of protection: \u2022 PURPLESEC must review all network firewall rulesets and configurations during the initial implementation process and periodically thereafter."
+  },
+  {
+    "clause_id": "IT-SEC-089",
+    "page": 33,
+    "text": "Firewall rulesets and configurations must be backed up frequently to alternate storage (not on the same device)."
+  },
+  {
+    "clause_id": "IT-SEC-090",
+    "page": 33,
+    "text": "Multiple generations must be captured and retained, to preserve the integrity of the data, should restoration be required."
+  },
+  {
+    "clause_id": "IT-SEC-091",
+    "page": 33,
+    "text": "Access to rulesets and configurations and backup media must be restricted to those responsible for administration and review."
+  },
+  {
+    "clause_id": "IT-SEC-092",
+    "page": 34,
+    "text": "desktop computers, servers, etc.) must be discarded according to legal requirements and environmental regulations through the appropriate external agents and PURPLESEC\u2019s upgrade guidelines."
+  },
+  {
+    "clause_id": "IT-SEC-093",
+    "page": 34,
+    "text": "All disposition procedures for retired IT assets must adhere to company approved methods."
+  },
+  {
+    "clause_id": "IT-SEC-094",
+    "page": 36,
+    "text": "Overview Security Incident Management at PURPLESEC is necessary to detect security incidents, determine the magnitude of the threat presented by these incidents, respond to these incidents, and if required, notify PURPLESEC members of the breach."
+  },
+  {
+    "clause_id": "IT-SEC-095",
+    "page": 36,
+    "text": "In the event a breach of member\u2019s information occurs, PURPLESEC is required by Wisconsin state law to notify the individual(s) as described in Wisconsin Statute Section 895.507(2)."
+  },
+  {
+    "clause_id": "IT-SEC-096",
+    "page": 36,
+    "text": "Policy Detail Program Organization \u2022 Computer Emergency Response Plans PURPLESEC management must prepare, periodically update, and regularly test emergency response plans that provide for the continued operation of critical computer and communication systems in the event of an interruption or degradation of service."
+  },
+  {
+    "clause_id": "IT-SEC-097",
+    "page": 36,
+    "text": "\u2022 Incident Response Plan Contents The PURPLESEC incident response plan must include roles, responsibilities, and communication strategies in the event of a compromise, including notification"
+  },
+  {
+    "clause_id": "IT-SEC-098",
+    "page": 37,
+    "text": "Specific areas covered in the plan include: o Specific incident response procedures o Business recovery and continuity procedures o Data backup processes o Analysis of legal requirements for reporting compromises o Identification and coverage for all critical system components o Reference or inclusion of incident response procedures from relevant external partners, e.g., payment card issuers, suppliers \u2022 Incident Response Testing o At least once every year, the IT Department must utilize simulated incidents to mobilize and test the adequacy of response."
+  },
+  {
+    "clause_id": "IT-SEC-099",
+    "page": 37,
+    "text": "\u2022 Intrusion Response Procedures The IT Department must document and periodically revise the Incident Response Plan with intrusion response procedures."
+  },
+  {
+    "clause_id": "IT-SEC-100",
+    "page": 37,
+    "text": "These procedures must include the sequence of actions that staff must take in response to a suspected information system intrusion, who has the authority to perform what responses, and what resources are available to assist with responses."
+  },
+  {
+    "clause_id": "IT-SEC-101",
+    "page": 37,
+    "text": "All staff expected to follow these procedures must be periodically trained in and otherwise acquainted with these procedures."
+  },
+  {
+    "clause_id": "IT-SEC-102",
+    "page": 38,
+    "text": "\u2022 Incident Response Plan Evolution The Incident Response Plan must be updated to reflect the lessons learned from actual incidents."
+  },
+  {
+    "clause_id": "IT-SEC-103",
+    "page": 38,
+    "text": "The Incident Response Plan must be updated to reflect developments in the industry."
+  },
+  {
+    "clause_id": "IT-SEC-104",
+    "page": 38,
+    "text": "Program Communication \u2022 Reporting to Third Parties Unless required by law or regulation to report information security violations to external authorities, senior management, in conjunction with legal representatives, the Security Officer, and the VP of IT must weigh the pros and cons of external disclosure before reporting these violations."
+  },
+  {
+    "clause_id": "IT-SEC-105",
+    "page": 38,
+    "text": "If a verifiable information systems security problem, or a suspected but likely information security problem, has caused third party private or confidential information to be exposed to unauthorized persons, these third parties must be immediately informed about the situation."
+  },
+  {
+    "clause_id": "IT-SEC-106",
+    "page": 38,
+    "text": "If sensitive information is lost, disclosed to unauthorized parties, or suspected of being lost or disclosed to unauthorized parties, both its Owner and the Security Officer must be notified immediately."
+  },
+  {
+    "clause_id": "IT-SEC-107",
+    "page": 38,
+    "text": "\u2022 Display of Incident Reporting Contact Information PURPLESEC contact information and procedures for reporting information security incidents must be prominently displayed in public communication mediums such as bulletin boards, break rooms, newsletters, and the intranet."
+  },
+  {
+    "clause_id": "IT-SEC-108",
+    "page": 41,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC Policy 11: Information Technology Purchasing Overview Information Technology purchasing at PURPLESEC must be managed to ensure compatibility and to control costs of the technology and services requested."
+  },
+  {
+    "clause_id": "IT-SEC-109",
+    "page": 41,
+    "text": "Purchases of technology and technical services for PURPLESEC must be approved and coordinated through the IT Department."
+  },
+  {
+    "clause_id": "IT-SEC-110",
+    "page": 41,
+    "text": "All purchase requests for hardware, software, computer-related components, internet services, or third-party electronic services must be submitted to the IT Department, via the Service Desk, for final purchase approval."
+  },
+  {
+    "clause_id": "IT-SEC-111",
+    "page": 42,
+    "text": "Before approval will be granted, employees or departments requesting non-emergency specialized software, or components, must submit a plan detailing how this item will be supported."
+  },
+  {
+    "clause_id": "IT-SEC-112",
+    "page": 42,
+    "text": "Capitalized expenditures, defined as hardware, software, or equipment above $2,500.00 or as specified in the PURPLESEC Fixed Asset Policy, which are capitalized by PURPLESEC, must go through the CFO and CEO for approval."
+  },
+  {
+    "clause_id": "IT-SEC-113",
+    "page": 43,
+    "text": "Equipment replaced during the course of any period shall be based on a minimum annual review of the asset management program and hardware replenishment schedule, hardware inventory, and fixed asset budget schedules."
+  },
+  {
+    "clause_id": "IT-SEC-114",
+    "page": 43,
+    "text": "Asset Management Program Certain classes of PURPLESEC assets, as defined below (\u201cQualified Assets\u201d or \u201cAsset\u201d), procured or curated by the PURPLESEC Information Technology department shall be duly managed with the objective of protecting them from misappropriation and unplanned obsolescence."
+  },
+  {
+    "clause_id": "IT-SEC-115",
+    "page": 43,
+    "text": "Methods shall be devised and followed to allow for asset identification, assignment, tracking, lifecycle management, reporting, and disposition."
+  },
+  {
+    "clause_id": "IT-SEC-116",
+    "page": 44,
+    "text": "Overview Internet access and usage at PURPLESEC must be managed as valuable and mission critical resources."
+  },
+  {
+    "clause_id": "IT-SEC-117",
+    "page": 44,
+    "text": "All software used to access the Internet must be part of the PURPLESEC standard software suite or approved by IT."
+  },
+  {
+    "clause_id": "IT-SEC-118",
+    "page": 44,
+    "text": "Such software must incorporate all vendor provided"
+  },
+  {
+    "clause_id": "IT-SEC-119",
+    "page": 45,
+    "text": "Users accessing the Internet through a computer connected to PURPLESEC\u2019s network must do so through an approved Internet firewall or other security device."
+  },
+  {
+    "clause_id": "IT-SEC-120",
+    "page": 45,
+    "text": "All software used to access the Internet shall be configured to use a proxy or other means of managing or controlling."
+  },
+  {
+    "clause_id": "IT-SEC-121",
+    "page": 45,
+    "text": "Bypassing PURPLESEC\u2019s network security, by accessing the Internet directly, is strictly prohibited."
+  },
+  {
+    "clause_id": "IT-SEC-122",
+    "page": 45,
+    "text": "Users are prohibited from using PURPLESEC Internet access for: unauthorized access to local and remote computer systems, software piracy, illegal activities, the transmission of threatening, obscene, or harassing materials, or personal solicitations."
+  },
+  {
+    "clause_id": "IT-SEC-123",
+    "page": 45,
+    "text": "File downloads and virus protection /R Users are prohibited from downloading and installing software on their PC without proper authorization from IT."
+  },
+  {
+    "clause_id": "IT-SEC-124",
+    "page": 45,
+    "text": "All files, downloaded from the Internet, must be scanned for viruses using PURPLESEC approved virus detection software."
+  },
+  {
+    "clause_id": "IT-SEC-125",
+    "page": 45,
+    "text": "If a user suspects a file may be infected, he/she must notify IT immediately."
+  },
+  {
+    "clause_id": "IT-SEC-126",
+    "page": 45,
+    "text": "Users are prohibited from using the Internet to deliberately propagate any virus, worm, Trojan Horse, trap-door, or other malicious program."
+  },
+  {
+    "clause_id": "IT-SEC-127",
+    "page": 45,
+    "text": "As such, the user must not deliberately perform acts that waste computer resources or unfairly monopolize resources to the exclusion of others."
+  },
+  {
+    "clause_id": "IT-SEC-128",
+    "page": 46,
+    "text": "The display, storing, archiving, or editing of such content on any PURPLESEC PC is prohibited."
+  },
+  {
+    "clause_id": "IT-SEC-129",
+    "page": 46,
+    "text": "Users are prohibited from attempting to access or accessing inappropriate sites from any PURPLESEC PC."
+  },
+  {
+    "clause_id": "IT-SEC-130",
+    "page": 46,
+    "text": "If a user accidentally connects to a site containing such material, the user must disconnect at once and report the incident immediately to IT."
+  },
+  {
+    "clause_id": "IT-SEC-131",
+    "page": 46,
+    "text": "PURPLESEC Departments may not host their own websites or contract for the hosting of websites by a vendor without the permission of IT."
+  },
+  {
+    "clause_id": "IT-SEC-132",
+    "page": 46,
+    "text": "Content on all PURPLESEC hosted web sites must comply with the PURPLESEC Acceptable Use of Information Systems and Privacy Policies."
+  },
+  {
+    "clause_id": "IT-SEC-133",
+    "page": 46,
+    "text": "Transmissions All sensitive PURPLESEC material transmitted over the Internet or external network must be encrypted."
+  },
+  {
+    "clause_id": "IT-SEC-134",
+    "page": 46,
+    "text": "Electronic files are subject to the same records retention rules that apply to other documents and must be retained in accordance with departmental records retention schedules."
+  },
+  {
+    "clause_id": "IT-SEC-135",
+    "page": 46,
+    "text": "Incidental use must not result in direct costs to PURPLESEC."
+  },
+  {
+    "clause_id": "IT-SEC-136",
+    "page": 46,
+    "text": "Incidental use must not interfere with the normal performance of an employee\u2019s work duties."
+  },
+  {
+    "clause_id": "IT-SEC-137",
+    "page": 50,
+    "text": "Thresholds shall be established that dictate what level of staff or management response is required for any given log entry or group of entries and detailed in a procedure."
+  },
+  {
+    "clause_id": "IT-SEC-138",
+    "page": 52,
+    "text": "The Board of Directors must approve the Safeguarding Member Information Policy, required by NCUA Part 748 Appendix A."
+  },
+  {
+    "clause_id": "IT-SEC-139",
+    "page": 52,
+    "text": "Information Security Program Management is responsible for developing, implementing, and maintaining an effective information security program to: \u2022 Ensure the security and confidentiality of member records and information \u2022 Protect against any anticipated threats or hazards to the security or integrity of such records \u2022 Protect against unauthorized access to, or use of, such records or information that would result in substantial harm or inconvenience to any member Management shall report to the Board of Directors, at least annually, on the current status of PURPLESEC\u2019s Information Security Program."
+  },
+  {
+    "clause_id": "IT-SEC-140",
+    "page": 52,
+    "text": "Board Involvement On an annual basis, the Board of Directors is required to provide the NCUA and DFI Regional Director with a certification of PURPLESEC\u2019s compliance with NCUA Part 748."
+  },
+  {
+    "clause_id": "IT-SEC-141",
+    "page": 54,
+    "text": "All service providers, who may access member information, must complete a Vendor Confidentiality Agreement requiring the provider to maintain the safekeeping and confidentiality of member information in compliance with applicable state and federal laws."
+  },
+  {
+    "clause_id": "IT-SEC-142",
+    "page": 54,
+    "text": "Such agreements must be obtained prior to any sharing of member information."
+  },
+  {
+    "clause_id": "IT-SEC-143",
+    "page": 54,
+    "text": "The information from this collection will provide critical information in identifying the software required for rebuilding systems."
+  },
+  {
+    "clause_id": "IT-SEC-144",
+    "page": 55,
+    "text": "PURPLESEC will adhere to the required state statues, NCUA, Data Classification Procedures, and federal guidelines designated for record retention."
+  },
+  {
+    "clause_id": "IT-SEC-145",
+    "page": 55,
+    "text": "As required in the Incident Response Plan, PURPLESEC will assemble a team to handle any incidents that occur."
+  },
+  {
+    "clause_id": "IT-SEC-146",
+    "page": 55,
+    "text": "Necessary actions to prepare PURPLESEC and the Incident Response Team will be conducted prior to an incident as required in the Incident Response Plan."
+  },
+  {
+    "clause_id": "IT-SEC-147",
+    "page": 56,
+    "text": "The information shared and the receiving party must be considered in reporting candidly, anonymously, or otherwise to ensure there is no breach of confidence."
+  },
+  {
+    "clause_id": "IT-SEC-148",
+    "page": 56,
+    "text": "In accordance with current industry standards, the frequency and nature of such tests shall be determined by the IT Department."
+  },
+  {
+    "clause_id": "IT-SEC-149",
+    "page": 59,
+    "text": "Users inside the PURPLESEC firewall may not be connected to the PURPLESEC network at the same time a remote connection is used to an external network."
+  },
+  {
+    "clause_id": "IT-SEC-150",
+    "page": 59,
+    "text": "Users must not extend or re-transmit network services in any way."
+  },
+  {
+    "clause_id": "IT-SEC-151",
+    "page": 59,
+    "text": "This means a user must not install a router, switch, hub, or wireless access point to the PURPLESEC network without PURPLESEC IT approval."
+  },
+  {
+    "clause_id": "IT-SEC-152",
+    "page": 60,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC Users must not install network hardware or software that provides network services without PURPLESEC IT approval."
+  },
+  {
+    "clause_id": "IT-SEC-153",
+    "page": 60,
+    "text": "Non-PURPLESEC computer systems that require network connectivity must be approved by PURPLESEC IT."
+  },
+  {
+    "clause_id": "IT-SEC-154",
+    "page": 60,
+    "text": "Users must not download, install, or run security programs or utilities that reveal weaknesses in the security of a system."
+  },
+  {
+    "clause_id": "IT-SEC-155",
+    "page": 60,
+    "text": "For example, PURPLESEC users must not run password cracking programs, packet sniffers, network mapping tools, or port scanners while connected in any manner to the PURPLESEC network infrastructure."
+  },
+  {
+    "clause_id": "IT-SEC-156",
+    "page": 60,
+    "text": "Requirements Secure remote access must be strictly controlled."
+  },
+  {
+    "clause_id": "IT-SEC-157",
+    "page": 61,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC \u2022 Must ensure that their computer, which is remotely connected to PURPLESEC\u2019s corporate network, is not connected to any other network at the same time, with the exception of personal networks that are under the complete control of the user."
+  },
+  {
+    "clause_id": "IT-SEC-158",
+    "page": 61,
+    "text": "\u2022 Must not use non-PURPLESEC email accounts (i.e."
+  },
+  {
+    "clause_id": "IT-SEC-159",
+    "page": 61,
+    "text": "For remote access to PURPLESEC hardware, all hardware configurations must be approved by IT."
+  },
+  {
+    "clause_id": "IT-SEC-160",
+    "page": 61,
+    "text": "All hosts that are connected to PURPLESEC internal networks, via remote access technologies, must use up-to-date, anti-virus software applicable to that device or platform."
+  },
+  {
+    "clause_id": "IT-SEC-161",
+    "page": 61,
+    "text": "Organizations or individuals who wish to implement non-standard Remote Access solutions to the PURPLESEC production network must obtain prior approval from IT."
+  },
+  {
+    "clause_id": "IT-SEC-162",
+    "page": 62,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC \u2022 All computers connected to PURPLESEC internal networks via VPN or any other technology must use up-to-date, anti-virus software applicable to that device or platform."
+  },
+  {
+    "clause_id": "IT-SEC-163",
+    "page": 62,
+    "text": "The user must then logon again to reconnect to the network."
+  },
+  {
+    "clause_id": "IT-SEC-164",
+    "page": 62,
+    "text": "\u2022 By using VPN technology, users must understand that their machines are an extension of PURPLESEC\u2019s network and as such are subject to the same rules and regulations, as well as monitoring for compliance with this policy."
+  },
+  {
+    "clause_id": "IT-SEC-165",
+    "page": 62,
+    "text": "VPN Encryption and Authentication All computers with wireless LAN devices must utilize a PURPLESEC approved VPN configured to drop all unauthenticated and unencrypted traffic and will be provisioned with split-tunneling disabled."
+  },
+  {
+    "clause_id": "IT-SEC-166",
+    "page": 62,
+    "text": "To comply with this policy, wireless implementations must maintain point to point hardware encryption of at least 128 bits, support a hardware address that can be registered and tracked (i.e."
+  },
+  {
+    "clause_id": "IT-SEC-167",
+    "page": 62,
+    "text": "VPN Approval, Acceptable Use Review and Acceptance Approval from a staff director or higher authority is required for a user\u2019s VPN access account creation."
+  },
+  {
+    "clause_id": "IT-SEC-168",
+    "page": 62,
+    "text": "An acceptable use form is attached to the VPN procedure maintained by Information Technology and shall be reviewed and signed by each approved user to acknowledge having read and understood the policy (see Exhibit A)."
+  },
+  {
+    "clause_id": "IT-SEC-169",
+    "page": 62,
+    "text": "This form shall in turn be approved, collected, and retained by IT management prior to the user\u2019s VPN account use."
+  },
+  {
+    "clause_id": "IT-SEC-170",
+    "page": 63,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC Register Access Points and Cards All wireless Access Points/Base Stations connected to the corporate network must be registered and approved by IT."
+  },
+  {
+    "clause_id": "IT-SEC-171",
+    "page": 63,
+    "text": "PC cards) used in corporate laptop or desktop computers must be registered with IT."
+  },
+  {
+    "clause_id": "IT-SEC-172",
+    "page": 63,
+    "text": "Approved Technology All wireless LAN access must use PURPLESEC approved vendor products and security configurations."
+  },
+  {
+    "clause_id": "IT-SEC-173",
+    "page": 63,
+    "text": "Setting the Service Set Identifier (SSID) The SSID shall be configured so that it does not contain any identifying information about the organization, such as the company name, division title, employee name, or product identifier."
+  },
+  {
+    "clause_id": "IT-SEC-174",
+    "page": 64,
+    "text": "User of the mobile device shall not remove sensitive information from the PURPLESEC network, attack PURPLESEC assets, or violate any of the security polices related to the subject matter of this agreement."
+  },
+  {
+    "clause_id": "IT-SEC-175",
+    "page": 64,
+    "text": "The User understands and agrees that his/her use of the VPN software is required as part of his/her employment at PURPLESEC and is permitted to connect to internal information services in support of PURPLESEC activities only."
+  },
+  {
+    "clause_id": "IT-SEC-176",
+    "page": 64,
+    "text": "The User also understands that limitations on disclosure of any information covered under this Agreement shall survive the modification or elimination of the User access to PURPLESEC computer/information systems."
+  },
+  {
+    "clause_id": "IT-SEC-177",
+    "page": 65,
+    "text": "Overview Acceptable use of BYOD at PURPLESEC must be managed to ensure that access to PURPLESEC\u2019s resources for business are performed in a safe and secure manner for participants of the PURPLESEC BYOD program."
+  },
+  {
+    "clause_id": "IT-SEC-178",
+    "page": 66,
+    "text": "The Audience, as defined above, must agree to the terms and conditions set forth in this policy to be able to connect their devices to the company network."
+  },
+  {
+    "clause_id": "IT-SEC-179",
+    "page": 66,
+    "text": "\u2022 Management\u2019s written permission and certification of the need and efficacy of BYOD for that Employee \u2022 Sensitivity of data the Audience can access \u2022 Legislation or regulations prohibiting or limiting the use of a personal smart device for PURPLESEC business \u2022 Must be listed on the Information Technology Department\u2019s list of approved mobile devices \u2022 Audience\u2019s adherence to the terms of the Bring Your Own Device Agreement and this policy and other applicable policies \u2022 Technical limitations"
+  },
+  {
+    "clause_id": "IT-SEC-180",
+    "page": 67,
+    "text": "Devices that are not on this list may not be connected to the PURPLESEC infrastructure."
+  },
+  {
+    "clause_id": "IT-SEC-181",
+    "page": 67,
+    "text": "\u2022 IT will install the Mobile VPN software required on Smart mobile devices, such as Smartphones, to access the PURPLESEC network and data."
+  },
+  {
+    "clause_id": "IT-SEC-182",
+    "page": 67,
+    "text": "\u2022 Prior to initial use on the PURPLESEC network or related infrastructure, all personally owned mobile devices must be registered with IT."
+  },
+  {
+    "clause_id": "IT-SEC-183",
+    "page": 68,
+    "text": "All BYOD equipment, containing stored data owned by PURPLESEC, must use an approved method of encryption during transmission to protect data."
+  },
+  {
+    "clause_id": "IT-SEC-184",
+    "page": 68,
+    "text": "o A device\u2019s firmware/operating system must be up-to-date in order to prevent vulnerabilities and make the device more stable."
+  },
+  {
+    "clause_id": "IT-SEC-185",
+    "page": 68,
+    "text": "Anti-virus signature files must be up to date on any additional client machines \u2013 such as a home PC \u2013 on which this media will be accessed."
+  },
+  {
+    "clause_id": "IT-SEC-186",
+    "page": 68,
+    "text": "o If A) any BYOD device is lost or stolen, immediately contact PURPLESEC IT; and, if B) any BYOD device is scheduled to be upgraded or exchanged, the user must contact IT in advance."
+  },
+  {
+    "clause_id": "IT-SEC-187",
+    "page": 69,
+    "text": "o Usage of location-based services and mobile check-in services, which leverage device GPS capabilities to share real-time user location with external parties, is prohibited within the workplace."
+  },
+  {
+    "clause_id": "IT-SEC-188",
+    "page": 69,
+    "text": "This agreement must be signed by the Vice President of the sponsoring department, as well as a representative from the third party who is legally empowered to sign on behalf of the third party."
+  },
+  {
+    "clause_id": "IT-SEC-189",
+    "page": 70,
+    "text": "The User of the personal smart device shall not remove sensitive information from the PURPLESEC network, attack PURPLESEC assets, or violate any of the security policies related to the subject matter of this Agreement."
+  },
+  {
+    "clause_id": "IT-SEC-190",
+    "page": 73,
+    "text": "Policy Detail /R User Network Passwords Passwords for PURPLESEC network access must be implemented according to the following guidelines: \u2022 Passwords must be changed every 90 days \u2022 Passwords must adhere to a minimum length of 10 characters \u2022 Passwords must contain a combination of alpha, numeric, and special characters, where the computing system permits (!@#$%^&*_+=?/~\u2019;\u2019,<>|\\)."
+  },
+  {
+    "clause_id": "IT-SEC-191",
+    "page": 73,
+    "text": "\u2022 Passwords must not be easily tied back to the account owner such as: username, social security number, nickname, relative\u2019s names, birth date, etc."
+  },
+  {
+    "clause_id": "IT-SEC-192",
+    "page": 73,
+    "text": "\u2022 Passwords must not be dictionary words or acronyms \u2022 Passwords cannot be reused for 1 year System-Level Passwords All system-level passwords must adhere to the following guidelines:"
+  },
+  {
+    "clause_id": "IT-SEC-193",
+    "page": 74,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC \u2022 Passwords must be changed at least every 6 months \u2022 All administrator accounts must have 12 character passwords which must contain three of the four items: upper case, lower case, numbers, and special characters."
+  },
+  {
+    "clause_id": "IT-SEC-194",
+    "page": 74,
+    "text": "\u2022 Non-expiring passwords must be documented listing the requirements for those accounts."
+  },
+  {
+    "clause_id": "IT-SEC-195",
+    "page": 74,
+    "text": "\u2022 Administrators must not circumvent the Password Policy for the sake of ease of use Password Protection /R \u2022 The same password must not be used for multiple accounts."
+  },
+  {
+    "clause_id": "IT-SEC-196",
+    "page": 74,
+    "text": "\u2022 Passwords must not be shared with anyone."
+  },
+  {
+    "clause_id": "IT-SEC-197",
+    "page": 74,
+    "text": "\u2022 Stored passwords must be encrypted."
+  },
+  {
+    "clause_id": "IT-SEC-198",
+    "page": 74,
+    "text": "\u2022 Passwords must not be inserted in e-mail messages or other forms of electronic communication."
+  },
+  {
+    "clause_id": "IT-SEC-199",
+    "page": 74,
+    "text": "\u2022 Passwords must not be revealed over the phone to anyone."
+  },
+  {
+    "clause_id": "IT-SEC-200",
+    "page": 74,
+    "text": "\u2022 Passwords must not be revealed on questionnaires or security forms."
+  },
+  {
+    "clause_id": "IT-SEC-201",
+    "page": 74,
+    "text": "\u2022 Users must not hint at the format of a password (for example, \u201cmy family name\u201d)."
+  },
+  {
+    "clause_id": "IT-SEC-202",
+    "page": 74,
+    "text": "\u2022 PURPLESEC passwords must not be shared with anyone, including co-workers, managers, or family members, while on vacation."
+  },
+  {
+    "clause_id": "IT-SEC-203",
+    "page": 74,
+    "text": "\u2022 Passwords must not be written down and stored anywhere in any office."
+  },
+  {
+    "clause_id": "IT-SEC-204",
+    "page": 74,
+    "text": "Passwords must not be stored in a file on a computer system or mobile device (phone, tablet) without encryption."
+  },
+  {
+    "clause_id": "IT-SEC-205",
+    "page": 74,
+    "text": "\u2022 If the security of an account is in question, the password must be changed immediately."
+  },
+  {
+    "clause_id": "IT-SEC-206",
+    "page": 74,
+    "text": "In the event passwords are found or discovered, the following steps must be taken: o Take control of the passwords and protect them o Report the discovery to IT \u2022 Users cannot circumvent password entry with an auto logon, application remembering, embedded scripts, or hard coded passwords in client software."
+  },
+  {
+    "clause_id": "IT-SEC-207",
+    "page": 74,
+    "text": "For an exception to be approved, there must be a procedure to change the passwords."
+  },
+  {
+    "clause_id": "IT-SEC-208",
+    "page": 74,
+    "text": "\u2022 PCs must not be left unattended without enabling a password-protected screensaver or logging off the device."
+  },
+  {
+    "clause_id": "IT-SEC-209",
+    "page": 75,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC \u2022 If the security of an account is in question, the password must be changed immediately."
+  },
+  {
+    "clause_id": "IT-SEC-210",
+    "page": 75,
+    "text": "In the event passwords are found or discovered, the following steps must be taken: o Take control of the passwords and protect them o Report the discovery to IT /R \u2022 Security tokens (i.e."
+  },
+  {
+    "clause_id": "IT-SEC-211",
+    "page": 75,
+    "text": "smartcards, RSA hardware tokens, etc.) must be returned upon demand or upon termination of the relationship with PURPLESEC."
+  },
+  {
+    "clause_id": "IT-SEC-212",
+    "page": 75,
+    "text": "Application Development Standards Application developers must ensure their programs follow security precautions in this policy and industry standards."
+  },
+  {
+    "clause_id": "IT-SEC-213",
+    "page": 76,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC Policy 18: Patch Management Overview Patch Management at PURPLESEC is required to mitigate risk to the confidential data and the integrity of PURPLESEC\u2019s systems."
+  },
+  {
+    "clause_id": "IT-SEC-214",
+    "page": 76,
+    "text": "Patch management is an effective tool used to protect against vulnerabilities, a process that must be done routinely, and should be as all-encompassing as possible to be most effective."
+  },
+  {
+    "clause_id": "IT-SEC-215",
+    "page": 76,
+    "text": "PURPLESEC must prioritize its assets and protect the most critical ones first; however, it is important to ensure patching takes place on all machines."
+  },
+  {
+    "clause_id": "IT-SEC-216",
+    "page": 76,
+    "text": "\u2022 In the event that a critical or security related patch cannot be centrally deployed by IT, it must be installed in a timely manner using the best resources available."
+  },
+  {
+    "clause_id": "IT-SEC-217",
+    "page": 78,
+    "text": "Before physical access to facilities, information systems, or information system display mechanisms is allowed, authorized personnel are required to authenticate themselves at these access points."
+  },
+  {
+    "clause_id": "IT-SEC-218",
+    "page": 78,
+    "text": "This list shall be reviewed and, where necessary, updated on at least an annual basis."
+  },
+  {
+    "clause_id": "IT-SEC-219",
+    "page": 78,
+    "text": "If visitors need access to the facilities that house information systems or to the information systems themselves, those visitors must have prior authorization, must be positively identified, and must have their authorization verified before physical access is granted."
+  },
+  {
+    "clause_id": "IT-SEC-220",
+    "page": 78,
+    "text": "Once access has been granted, visitors must be escorted, and their activities"
+  },
+  {
+    "clause_id": "IT-SEC-221",
+    "page": 82,
+    "text": "PURPLESEC must determine how data would be recovered from the vendor."
+  },
+  {
+    "clause_id": "IT-SEC-222",
+    "page": 84,
+    "text": "Adherence to the PURPLESEC Server Security Policy will: \u2022 Eliminate configuration errors and reduce server outages \u2022 Reduce undocumented server configuration changes that tend to open up security vulnerabilities \u2022 Facilitate compliance and demonstrate that the controls are working \u2022 Protect PURPLESEC data, networks, and databases from unauthorized use and/or malicious attack Therefore, all server equipment that is owned and/or operated by PURPLESEC must be provisioned and operated in a manner that adheres to company defined processes for doing so."
+  },
+  {
+    "clause_id": "IT-SEC-223",
+    "page": 85,
+    "text": "\u2022 Operating System (OS) configuration must be in accordance with approved procedures."
+  },
+  {
+    "clause_id": "IT-SEC-224",
+    "page": 85,
+    "text": "\u2022 Unused services and applications must be disabled, except where approved by the Director of IT or the VP of IT."
+  },
+  {
+    "clause_id": "IT-SEC-225",
+    "page": 85,
+    "text": "\u2022 Access to services must be logged or protected though appropriate access control methods."
+  },
+  {
+    "clause_id": "IT-SEC-226",
+    "page": 85,
+    "text": "\u2022 Security patches must be installed on the system as soon as possible through PURPLESEC\u2019s configuration management processes."
+  },
+  {
+    "clause_id": "IT-SEC-227",
+    "page": 85,
+    "text": "\u2022 Authorized users must always use the standard security principle of \u201cLeast Required Access\u201d to perform a function."
+  },
+  {
+    "clause_id": "IT-SEC-228",
+    "page": 85,
+    "text": "\u2022 System administration and other privileged access must be performed through a secure connection."
+  },
+  {
+    "clause_id": "IT-SEC-229",
+    "page": 85,
+    "text": "\u2022 All employees are specifically prohibited from operating servers in environments with uncontrolled access (i.e."
+  },
+  {
+    "clause_id": "IT-SEC-230",
+    "page": 87,
+    "text": "Terms and Conditions of Use All requests for a PURPLESEC Official\u2019s use of external social media, on behalf of PURPLESEC, must be submitted to the Senior Management Team."
+  },
+  {
+    "clause_id": "IT-SEC-231",
+    "page": 87,
+    "text": "PURPLESEC Officials may only access these sites in a manner consistent with PURPLESEC\u2019s security protocols and PURPLESEC Officials may not circumvent IT Security protocols to access social media sites."
+  },
+  {
+    "clause_id": "IT-SEC-232",
+    "page": 87,
+    "text": "Use of personal social media accounts and user IDs, for PURPLESEC use, is prohibited."
+  },
+  {
+    "clause_id": "IT-SEC-233",
+    "page": 87,
+    "text": "Use of PURPLESEC social media user IDs, for personal use, is prohibited."
+  },
+  {
+    "clause_id": "IT-SEC-234",
+    "page": 87,
+    "text": "Use of PURPLESEC email addresses to register on social networks, blogs, or other online tools utilized for personal use is prohibited."
+  },
+  {
+    "clause_id": "IT-SEC-235",
+    "page": 87,
+    "text": "Examples of prohibited use of company User IDs include:"
+  },
+  {
+    "clause_id": "IT-SEC-236",
+    "page": 88,
+    "text": "PURPLESEC Officials are prohibited from taking, saving, or sending any PURPLESEC content distributed via social media while employed, separated, serving on the Board of Directors, or terminated by PURPLESEC."
+  },
+  {
+    "clause_id": "IT-SEC-237",
+    "page": 89,
+    "text": "PURPLESEC Officials must not reveal proprietary information and must be cautious about posting exaggerations, obscenities, or other characterizations that could invite litigation."
+  },
+  {
+    "clause_id": "IT-SEC-238",
+    "page": 89,
+    "text": "PURPLESEC Officials must not make public reference to any PURPLESEC related cash or security procedures."
+  },
+  {
+    "clause_id": "IT-SEC-239",
+    "page": 89,
+    "text": "PURPLESEC Officials who comment on any PURPLESEC business or policy issue must clearly identify themselves as a PURPLESEC Official in their blog or posting and include a disclaimer that the views are their own and not those of PURPLESEC."
+  },
+  {
+    "clause_id": "IT-SEC-240",
+    "page": 89,
+    "text": "PURPLESEC Officials must not use social media websites to harass, threaten, discriminate against, disparage, or defame any other PURPLESEC Officials, members, vendors, PURPLESEC products, services, or business philosophy."
+  },
+  {
+    "clause_id": "IT-SEC-241",
+    "page": 89,
+    "text": "PURPLESEC Officials are prohibited from disclosing confidential, proprietary, or otherwise sensitive business or personal information related to PURPLESEC or any of its PURPLESEC Officials, vendors, or members."
+  },
+  {
+    "clause_id": "IT-SEC-242",
+    "page": 89,
+    "text": "PURPLESEC Officials are also prohibited from disclosing any confidential, proprietary, or otherwise sensitive business or personal information that could identify another PURPLESEC Official, vendor, or member without that individual\u2019s prior authorization."
+  },
+  {
+    "clause_id": "IT-SEC-243",
+    "page": 90,
+    "text": "Brand, trademark, copyright, fair use, and privacy laws must be respected."
+  },
+  {
+    "clause_id": "IT-SEC-244",
+    "page": 90,
+    "text": "The employee must comply with advertising disclosure regulations by providing a link back to PURPLESEC\u2019s website page that lists the proper disclosures."
+  },
+  {
+    "clause_id": "IT-SEC-245",
+    "page": 90,
+    "text": "Third-party site\u2019s terms and conditions must be followed."
+  },
+  {
+    "clause_id": "IT-SEC-246",
+    "page": 91,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC \u2022 If a mistake is made, it must be acknowledged."
+  },
+  {
+    "clause_id": "IT-SEC-247",
+    "page": 91,
+    "text": "Retaliation is Prohibited PURPLESEC prohibits taking negative action against any PURPLESEC Official for reporting a possible deviation from this policy or for cooperating in an investigation."
+  },
+  {
+    "clause_id": "IT-SEC-248",
+    "page": 92,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC Policy 23: Systems Monitoring and Auditing Overview Systems monitoring and auditing, at PURPLESEC, must be performed to determine when a failure of the information system security, or a breach of the information systems itself, has occurred, and the details of that breach or failure."
+  },
+  {
+    "clause_id": "IT-SEC-249",
+    "page": 92,
+    "text": "System logs shall be manually reviewed weekly."
+  },
+  {
+    "clause_id": "IT-SEC-250",
+    "page": 93,
+    "text": "This policy also covers any computer and communications device that is present on PURPLESEC premises, but which may not be owned or operated by PURPLESEC."
+  },
+  {
+    "clause_id": "IT-SEC-251",
+    "page": 93,
+    "text": "Policy Detail The operating system or environment for all information system resources must undergo a regular vulnerability assessment."
+  },
+  {
+    "clause_id": "IT-SEC-252",
+    "page": 93,
+    "text": "Vulnerabilities to the operating system or environment for information system resources must be identified and corrected to minimize the risks associated with them."
+  },
+  {
+    "clause_id": "IT-SEC-253",
+    "page": 93,
+    "text": "Audits may be conducted to: \u2022 Ensure integrity, confidentiality, and availability of information and resources \u2022 Investigate possible security incidents and to ensure conformance to PURPLESEC\u2019s security policies \u2022 Monitor user or system activity where appropriate To ensure these vulnerabilities are adequately addressed, the operating system or environment for all information system resources must undergo an authenticated vulnerability assessment."
+  },
+  {
+    "clause_id": "IT-SEC-254",
+    "page": 96,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC ordering checks, mortgage loan applications, identity theft protection \u2022 The PURPLESEC website contains a web link disclosure \u2022 The PURPLESEC website will not provide links to websites for: o Illegal or discriminatory activities o Candidates for local, state, or federal offices o Political organizations or other organizations advocating a political position on an issue o Individual or personal home pages Security When a login is required, various forms of multi-factor authentication are implemented to ensure the privacy of member information and security of their transactions."
+  },
+  {
+    "clause_id": "IT-SEC-255",
+    "page": 96,
+    "text": "The multi-factor authentication process will still be required at the next login."
+  },
+  {
+    "clause_id": "IT-SEC-256",
+    "page": 96,
+    "text": "Regulatory Compliance The PURPLESEC website must comply with all regulations dealing with security of member information, including, but not limited to: \u2022 Part 748 of NCUA Rules and Regulations: Security Program; \u2022 Report of Crime and Catastrophic Act; \u2022 Bank Secrecy Act Compliance; \u2022 As well as all other regulations, such as disclosure requirements."
+  },
+  {
+    "clause_id": "IT-SEC-257",
+    "page": 98,
+    "text": "Adherence to the PURPLESEC Workstation Configuration Security Policy will: \u2022 Eliminate configuration errors and reduce workstation outages \u2022 Reduce undocumented workstation configuration changes that tend to open up security vulnerabilities \u2022 Facilitate compliance and demonstrate that the controls are working \u2022 Protect PURPLESEC data, networks, and databases from unauthorized use and/or malicious attack Therefore, all new workstation equipment that is owned and/or operated by PURPLESEC must be provisioned and operated in a manner that adheres to company defined processes for doing so."
+  },
+  {
+    "clause_id": "IT-SEC-258",
+    "page": 99,
+    "text": "\u2022 Operating System (OS) configuration must be in accordance with approved procedures."
+  },
+  {
+    "clause_id": "IT-SEC-259",
+    "page": 99,
+    "text": "\u2022 Unused services and applications must be disabled, except where approved by the VP of IT."
+  },
+  {
+    "clause_id": "IT-SEC-260",
+    "page": 99,
+    "text": "\u2022 All systems within PURPLESEC are required to utilize anti-virus, malware, and data leakage protection."
+  },
+  {
+    "clause_id": "IT-SEC-261",
+    "page": 99,
+    "text": "\u2022 Third-party applications, including browsers, shall be updated and maintained in accordance with the PURPLESEC patch management program."
+  },
+  {
+    "clause_id": "IT-SEC-262",
+    "page": 101,
+    "text": "Hardware will be retired at such time as planned by IT management or required by incompatibility with Operating Systems (OS) and/or workload specific software updates."
+  },
+  {
+    "clause_id": "IT-SEC-263",
+    "page": 102,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC \u2022 Support industry standard backup and recovery tools \u2022 Interoperate with other platform technologies \u2022 Support industry standard x86 hardware \u2022 Support industry standard storage \u2022 Support unmodified guest operating systems \u2022 Functionality to support virtual server management network isolation \u2022 Migrate running guests without interruption \u2022 Add disks to a running guest \u2022 Automatically detect a hardware failure and restart guests on another physical server \u2022 Functionality to configure role based access for the administrative console \u2022 Support Lightweight Directory Access Protocol (LDAP) for authentication and authorization for administrative console \u2022 Encrypt all intra host and administrative console traffic \u2022 Integrated graphical Central Processing Unit (CPU), memory, disk, and network performance monitoring, alerting, and historical reporting for hosts and guests \u2022 Other industry standard or best in class features as required"
+  },
+  {
+    "clause_id": "IT-SEC-264",
+    "page": 103,
+    "text": "PURPLESEC grants access to these resources as a privilege and must manage them responsibly to maintain the confidentiality, integrity, and availability of all information assets."
+  },
+  {
+    "clause_id": "IT-SEC-265",
+    "page": 103,
+    "text": "The PURPLESEC Wi-Fi network and connection to the Internet shall be:"
+  },
+  {
+    "clause_id": "IT-SEC-266",
+    "page": 105,
+    "text": "\u2022 If you must use an open Wi-Fi, do not engage in high-risk transactions or highly- confidential communication without first connecting to a virtual private network (VPN)."
+  },
+  {
+    "clause_id": "IT-SEC-267",
+    "page": 105,
+    "text": "\u2022 If sensitive information absolutely must be entered while using a public network, limit your activity and make sure that, at a minimum, your web browser connection is encrypted with the locked padlock icon visible in the corner of the browser window, and make sure the web address begins with https://."
+  },
+  {
+    "clause_id": "IT-SEC-268",
+    "page": 105,
+    "text": "In every case, you must use your PURPLESEC-provided VPN at all times."
+  },
+  {
+    "clause_id": "IT-SEC-269",
+    "page": 106,
+    "text": "In order to purchase, configure, ship, and install the required equipment to the remote location, the IT Department shall be notified in advance of the telecommuting start date."
+  },
+  {
+    "clause_id": "IT-SEC-270",
+    "page": 106,
+    "text": "In the event of such damage, loaner equipment may be provided when available and must be returned upon request."
+  },
+  {
+    "clause_id": "IT-SEC-271",
+    "page": 106,
+    "text": "The employee shall designate a workspace, within the remote work location, for placement and installation of equipment to be used while teleworking."
+  },
+  {
+    "clause_id": "IT-SEC-272",
+    "page": 106,
+    "text": "The employee shall maintain this workspace in a safe condition, free from hazards and other dangers to the employee and equipment."
+  },
+  {
+    "clause_id": "IT-SEC-273",
+    "page": 107,
+    "text": "Comprehensive IT Policy CONFIDENTIAL-PURPLESEC LLC for acceptable use, protection of member information, security, reimbursement of business voice and Internet charges, etc., shall be observed."
+  },
+  {
+    "clause_id": "IT-SEC-274",
+    "page": 107,
+    "text": "Personally owned equipment may not be connected to PURPLESEC owned equipment."
+  },
+  {
+    "clause_id": "IT-SEC-275",
+    "page": 107,
+    "text": "The employee must sign the Telecommuting Equipment Agreement document and the Telecommuting Equipment document for all PURPLESEC owned property provided to the employee for telecommuting purposes (see Exhibits A and B)."
+  },
+  {
+    "clause_id": "IT-SEC-276",
+    "page": 107,
+    "text": "When the employee ceases to telecommute or is terminated, all PURPLESEC owned equipment shall be returned to the IT Department within five (5) business days."
+  },
+  {
+    "clause_id": "IT-SEC-277",
+    "page": 108,
+    "text": "Within five (5) business days after the employee ceases to telecommute or after termination of employment at PURPLESEC, the employee shall return all supplied equipment to the IT Department."
+  },
+  {
+    "clause_id": "IT-SEC-278",
+    "page": 111,
+    "text": "Employee-owned IoT devices used for business purposes must be used in accordance with Policy 16, Personal Device Acceptable Use and Security (BYOD)."
+  }
+]

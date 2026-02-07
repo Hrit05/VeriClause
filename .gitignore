@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local artifacts
+*.faiss
+*.pkl
+*.pdf
+*.npy
+
+# Env
+.env
+
+# OS
+.DS_Store
